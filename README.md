@@ -52,6 +52,8 @@ Customers usually do not decide to switch to another competitor instantly, but r
 
 In this case, since you are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
 
+The dataset can be download using this link(https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view).
+
 ** Data Preparation
 The following data preparation steps are crucial for this problem:
 
